@@ -8,8 +8,9 @@ How it works
 - The script reads the file content
 - It sends the content as an email using SMTP (Gmail by default)
 
-Project Structure
+## Project Structure
 
+```
 automated-email-summary/
 ├─ src/
 │  ├─ __init__.py
@@ -23,6 +24,8 @@ automated-email-summary/
 ├─ README.md
 ├─ requirements.txt
 └─ .env (ignored)
+```
+
 
 Setup
 
